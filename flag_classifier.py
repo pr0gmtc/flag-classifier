@@ -25,9 +25,7 @@ clf_tree = tree.DecisionTreeClassifier()
 # Training the model
 clf_tree.fit(_params, _names)
 
-print("Enter colors: ")
-
-clrs_list = input().split(" ")
+clrs_list = input("Enter colors of the flag: ").split(" ")
 
 def strings_to_numbers():
     switcher = {
