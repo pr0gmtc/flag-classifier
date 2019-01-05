@@ -41,5 +41,5 @@ Zimbabwe | 0 | 7 | 5 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1
 
 # Usage
 
-flag-classifier can guess which flag has given attributes.
+flag-classifier can guess which flag has given attributes(you can just press enter instead of entering 0).
 ![Entering flag's and parameters and getting "South Korea" result](../master/Screenshot%20from%202019-01-05%2018-23-01.png)
